@@ -1,0 +1,62 @@
+{
+  "name": "expack-icons",
+  "version": "0.0.1alpha-1",
+  "description": "The icon library for Expack",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup --config",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExPackTeam/Expack-Icons.git"
+  },
+  "keywords": [
+    "svg",
+    "png",
+    "javascript",
+    "sass",
+    "css",
+    "html",
+    "mit",
+    "cc0",
+    "icons",
+    "social-media",
+    "general-use",
+    "open-source",
+    "free-to-use",
+    "expack",
+    "teamexpack",
+    "web-library"
+  ],
+  "author": "TeamExpack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ExPackTeam/Expack-Icons/issues"
+  },
+  "homepage": "https://github.com/ExPackTeam/Expack-Icons#readme",
+  "dependencies": {
+    "expack-icons": "file:",
+    "svg.js": "^2.7.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.4",
+    "@rollup/plugin-babel": "^6.0.4",
+    "@rollup/plugin-commonjs": "^28.0.0",
+    "@rollup/plugin-node-resolve": "^15.3.0",
+    "@rollup/plugin-terser": "^0.4.4",
+    "babel-loader": "^9.2.1",
+    "jquery": "^3.7.1",
+    "postcss": "^8.4.47",
+    "postcss-attribute-case-insensitive": "^7.0.0",
+    "postcss-scss": "^4.0.9",
+    "rollup": "^4.22.4",
+    "rollup-plugin-copy-assets": "^2.0.3",
+    "rollup-plugin-postcss": "^4.0.2",
+    "sass": "^1.79.3",
+    "webpack": "^5.94.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "type": "module"
+}

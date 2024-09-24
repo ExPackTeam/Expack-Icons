@@ -1,0 +1,59 @@
+# Node.js
+package-lock.json
+npm-debug.log
+yarn-error.log
+yarn.lock
+# Build output
+build/
+out/
+src/svg/input.js
+dist/svg/output.min.js
+
+
+# Dependency directories
+bower_components/
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Compiled files
+*.class
+*.pyc
+*.pyo
+*.pyd
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.tar
+
+# Miscellaneous
+*.bak
+*.orig
+*.log
+*.out
+*.pid
+
+# Git specific
+*.git/
+node_modules/

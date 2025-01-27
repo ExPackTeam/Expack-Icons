@@ -3,4 +3,7 @@ The official icons for expack. Some are taken from other sources and will be sit
 
 This is intended for use with the Expack web library.
 
-The code for this library is under the [MIT](https://opensource.org/license/mit) and the icons are under [CC0 v1.0](https://creativecommons.org/public-domain/cc0/).
+The code for this library is under the [MIT](https://opensource.org/license/mit).
+
+> [!NOTICE] Note for development
+> The icons will have the way to insert them into a page with `<i data-icon="ep exp-{icon name}"></i>`

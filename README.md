@@ -7,3 +7,6 @@ The code for this library is under the [MIT](https://opensource.org/license/mit)
 
 > [!NOTICE] Note for development
 > The icons will have the way to insert them into a page with `<i data-icon="ep exp-{icon name}"></i>`
+
+# Software Used
+Inkscape is used for the non-brand icons. The brand icons were downloaded
